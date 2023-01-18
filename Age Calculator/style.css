@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    padding-top: 200px;
+    font-size: x-large;
+}
+
+div.style {
+    margin: auto;
+    border: 2px solid red;
+    padding-left: 10px;
+    width: 50%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.style h2 {
+    color: rgb(27, 207, 27);
+    font-size: 3rem;
+    padding-bottom: 20px;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#DOB {
+    width: 120px;
+    height: 25px;
+}
+
+.style h3 {
+    color: blueviolet;
+}
