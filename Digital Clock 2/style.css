@@ -1,0 +1,11 @@
+#clock {
+    font-family:'.\Digital font\digital-7 (mono italic).ttf';
+    font-size: 175px;
+    width: 900px;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 200px;
+    color: red;
+    background-color: black;
+}
