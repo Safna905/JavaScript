@@ -1,6 +1,6 @@
-setInterval(myTimer, 1000);
+setInterval(showtime, 1000);
 
-function myTimer() {
+function showtime() {
   const date = new Date();
   document.getElementById("demo").innerHTML = date.toLocaleTimeString();
 }
