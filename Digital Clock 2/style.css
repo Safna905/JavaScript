@@ -1,7 +1,9 @@
+
 #clock {
-    font-family:'.\Digital font\digital-7 (mono italic).ttf';
-    font-size: 175px;
-    width: 900px;
+   font-family:  'Orbitron', sans-serif;
+                                                
+    font-size: 170px;
+    width: 1200px;
     margin: auto;
     border: 2px solid black;
     border-radius: 20px;
